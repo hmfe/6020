@@ -1,0 +1,33 @@
+{
+  "name": "hmfe-6020",
+  "private": true,
+  "description": "hmfe-6020",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "dev": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "dependencies": {
+    "gatsby": "^2.16.1",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "normalize.css": "^8.0.1",
+    "react": "^16.10.2",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.10.2",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

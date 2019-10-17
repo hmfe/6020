@@ -1,0 +1,16 @@
+html {
+  box-sizing: "border-box";
+  font-family: "Lato", sans-serif;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  background-color: #f5f5f5;
+  /* background-color: lavenderblush; */
+}
+p {
+  font-size: 18px;
+}
